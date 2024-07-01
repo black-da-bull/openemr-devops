@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.18
 
 #Install dependencies
 RUN apk --no-cache upgrade
